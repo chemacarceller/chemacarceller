@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 My repositories are organized by lists accessible from the Stars button so that the name of the list establishes a hierarchical structure as a folder hierarchical structure with the particularity that a repository belongs to all the lists until reaching the last list in which it is included, the names of the lists are prefixed by a number to achieve this
 
 Please sort the lists by name in ascending order to see the hierarchical structure
+
+In addition to this, the name of the repository is prefixed by the name of the top-level list to which it belongs.
