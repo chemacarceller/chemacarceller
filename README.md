@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My repositories are organized by lists accessible from the Stars button so that the name of the list indicates a hierarchical structure, the names of the lists are prefixed by RnLn ( R : Repository, L : Level, n : order number)
+My repositories are organized by lists accessible from the Stars button so that the name of the list indicates a hierarchical structure as a folder hierarchical structure with the particularity that a repository belongs to all the lists until reaching the last list in which it is included, the names of the lists are prefixed by RnLn ( R : Repository, L : Level, n : Order number).
+
+Please sort the lists by name in ascending order to see the hierarchical structure
