@@ -12,16 +12,16 @@ The repository categories are as follows :
 
 * GODOT
      * GODOT-COMPONENTS
-          * GODOT-CONTROLLER-COMPONENTS :
           * GODOT-MOVEMENT-COMPONENTS :
               * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
               * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)
               * [Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)
               * [Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
               * [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
-<!--                
-     * GODOT-ACTIVITIES :
+          * GODOT-CONTROLLER-COMPONENTS :
      * GODOT-DEMOS :
+     * GODOT-ACTIVITIES :
+<!--                
 * ELECTRON
 * UNREAL
      * UNREAL-ACTIVITIES :
