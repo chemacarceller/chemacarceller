@@ -28,7 +28,7 @@ The repository categories are :
           * GODOT-CONTROLLER-COMPONENTS :
           * GODOT-MOVEMENT-COMPONENTS :
             
-                [Basic_Character_Movement_Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
+                
             
                 [Vue](https://github.com/vuejs/vue)
      * GODOT-ACTIVITIES :
