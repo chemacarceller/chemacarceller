@@ -20,3 +20,19 @@ My repositories are organized by lists accessible from the Stars button so that 
 Please sort the lists by name in ascending order to see the hierarchical structure
 
 In addition to this, the name of the repository is prefixed by the name of the top-level list to which it belongs.
+
+The repository categories are :
+
+- GODOT
+     -- GODOT-COMPONENTS
+          -- GODOT-CONTROLLER-COMPONENTS
+          -- GODOT-MOVEMENT-COMPONENTS
+     -- GODOT-ACTIVITIES
+     -- GODOT-DEMOS
+- ELECTRON
+- UNREAL
+     -- UNREAL-ACTIVITIES
+     -- UNREAL-DEMOS
+- UNITY
+     -- UNITY-ACTIVITIES
+     -- UNITY-DEMOS
