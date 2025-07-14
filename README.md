@@ -26,12 +26,7 @@ The repository categories are :
 * GODOT
      * GODOT-COMPONENTS
           * GODOT-CONTROLLER-COMPONENTS :
-          * GODOT-MOVEMENT-COMPONENTS :
-            
-[Vue](https://github.com/vuejs/vue)
-
-
-            
+          * GODOT-MOVEMENT-COMPONENTS :   [Vue](https://github.com/vuejs/vue)
      * GODOT-ACTIVITIES :
      * GODOT-DEMOS :
   
