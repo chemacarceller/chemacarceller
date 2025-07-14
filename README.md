@@ -25,17 +25,18 @@ The repository categories are :
 
 * GODOT
      * GODOT-COMPONENTS
-          * GODOT-CONTROLLER-COMPONENTS
-          * GODOT-MOVEMENT-COMPONENTS
-     * GODOT-ACTIVITIES
-     * GODOT-DEMOS
+          * GODOT-CONTROLLER-COMPONENTS :
+          * GODOT-MOVEMENT-COMPONENTS :
+              GOTO https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component
+     * GODOT-ACTIVITIES :
+     * GODOT-DEMOS :
   
 * ELECTRON
   
 * UNREAL
-     * UNREAL-ACTIVITIES
-     * UNREAL-DEMOS
+     * UNREAL-ACTIVITIES :
+     * UNREAL-DEMOS :
   
 * UNITY
-     * UNITY-ACTIVITIES
-     * UNITY-DEMOS
+     * UNITY-ACTIVITIES :
+     * UNITY-DEMOS :
