@@ -15,7 +15,7 @@ The repository categories are as follows :
               * [Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
               * [Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)
               * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)
-                
+<!--                
      * GODOT-ACTIVITIES :
      * GODOT-DEMOS :
   
@@ -28,3 +28,4 @@ The repository categories are as follows :
 * UNITY
      * UNITY-ACTIVITIES :
      * UNITY-DEMOS :
+-->
