@@ -2,7 +2,7 @@
 
 My repositories are organized in a hierarchical structure of categories such as a folder hierarchical structure
 
-In addition to this, lists have been created based on the hierarchical category structure, from which you can also access the different repositories. 
+In addition to this, github lists have been created based on this hierarchical category structure, from which you can also access the different repositories. 
 The lists are accessed via the Star button. 
 Please sort the lists by name to see the hierarchical structure of categories.
 
