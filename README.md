@@ -23,16 +23,16 @@ In addition to this, the name of the repository is prefixed by the name of the t
 
 The repository categories are :
 
-- GODOT
-     -- GODOT-COMPONENTS
-          -- GODOT-CONTROLLER-COMPONENTS
-          -- GODOT-MOVEMENT-COMPONENTS
-     -- GODOT-ACTIVITIES
-     -- GODOT-DEMOS
-- ELECTRON
-- UNREAL
-     -- UNREAL-ACTIVITIES
-     -- UNREAL-DEMOS
-- UNITY
-     -- UNITY-ACTIVITIES
-     -- UNITY-DEMOS
+* GODOT
+     ** GODOT-COMPONENTS
+          ** GODOT-CONTROLLER-COMPONENTS
+          ** GODOT-MOVEMENT-COMPONENTS
+     ** GODOT-ACTIVITIES
+     ** GODOT-DEMOS
+* ELECTRON
+* UNREAL
+     ** UNREAL-ACTIVITIES
+     ** UNREAL-DEMOS
+* UNITY
+     ** UNITY-ACTIVITIES
+     ** UNITY-DEMOS
