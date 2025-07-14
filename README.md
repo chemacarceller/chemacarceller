@@ -26,8 +26,10 @@ The repository categories are :
 * GODOT
   
      * GODOT-COMPONENTS
-          ** GODOT-CONTROLLER-COMPONENTS
-          ** GODOT-MOVEMENT-COMPONENTS
+       
+          * GODOT-CONTROLLER-COMPONENTS
+          * GODOT-MOVEMENT-COMPONENTS
+       
      * GODOT-ACTIVITIES
      * GODOT-DEMOS
     
