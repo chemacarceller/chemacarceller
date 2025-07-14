@@ -3,10 +3,10 @@
 My repositories are organized in a hierarchical structure of categories such as a folder hierarchical structure
 
 In addition to this, github lists have been created based on this hierarchical category structure, from which you can also access the different repositories. 
-The lists are accessed via the Star button. 
-Please sort the lists by name to see the hierarchical structure of categories.
+The lists are accessed via the Stars button in the button bar on the home page.
+Once accessed the github lists, please sort the lists by name to see the hierarchical structure of categories thanks to a number that precedes the category name.
 
-Also the name of the repository is prefixed by the name of the top-level category to which it belongs.
+Also the name of the repository is prefixed by the name of the top-level category to which it belongs to be able to identify the repository more easily.
 
 The repository categories are as follows :
 
@@ -22,13 +22,10 @@ The repository categories are as follows :
 <!--                
      * GODOT-ACTIVITIES :
      * GODOT-DEMOS :
-  
 * ELECTRON
-  
 * UNREAL
      * UNREAL-ACTIVITIES :
      * UNREAL-DEMOS :
-  
 * UNITY
      * UNITY-ACTIVITIES :
      * UNITY-DEMOS :
