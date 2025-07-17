@@ -19,6 +19,7 @@ The repository categories are as follows :
               * [Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
               * [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
           * GODOT-CONTROLLER-COMPONENTS :
+              * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
      * GODOT-DEMOS :
      * GODOT-ACTIVITIES :
 <!--                
