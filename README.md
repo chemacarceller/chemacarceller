@@ -22,7 +22,7 @@ The repository categories are as follows :
           * GODOT-CONTROLLER-COMPONENTS :
               * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
      * GODOT-UTILITIES :
-         * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
+         * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
      * GODOT-DEMOS :
      * GODOT-ACTIVITIES :                
 * ELECTRON
