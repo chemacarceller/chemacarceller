@@ -27,6 +27,7 @@ The repository categories are as follows :
              * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/Third-Person-Character-Utility-Mixamo-Manequin-Woman)
              * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/Third-Person-Character-Utility-Mixamo-Manequin-Man)
           * GODOT-BODIES-TEMPLATES :
+             * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template)
      * GODOT-DEMOS :
      * GODOT-ACTIVITIES :                
 * ELECTRON
