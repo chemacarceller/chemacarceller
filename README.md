@@ -22,7 +22,7 @@ The repository categories are as follows :
           * GODOT-CONTROLLER-COMPONENTS :
               * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
      * GODOT-UTILITIES :
-         * GODOT-GENERAL-PURPOSE-UTILITIES :
+         * GODOT-GENERAL-PURPOSE-UTILS :
              * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
          * GODOT-THIRD-PERSON-CHARACTERS :
              * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)
