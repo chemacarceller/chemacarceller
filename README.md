@@ -21,6 +21,7 @@ The repository categories are as follows :
               * [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
           * GODOT-CONTROLLER-COMPONENTS :
               * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
+          * GODOT-BODIES-TEMPLATES-COMPONENTS :
      * GODOT-UTILITIES :
          * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
          * GODOT-THIRD-PERSON-CHARACTERS :
