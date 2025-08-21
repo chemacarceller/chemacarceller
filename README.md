@@ -5,8 +5,7 @@ My repositories are organized in a hierarchical structure of categories such as 
 Also the name of the repository is prefixed by the name of the top-level category to which it belongs to be able to identify the repository more easily.
 
 The repository categories are as follows :
-
-
+<br/><br/>
 * **GODOT :**
      * **GODOT-COMPONENTS :**
           * **GODOT-MOVEMENT-COMPONENTS :**
@@ -18,7 +17,7 @@ The repository categories are as follows :
                * [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
           * **GODOT-CONTROLLER-COMPONENTS :**
                * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
-                 
+<br/>       
      * **GODOT-UTILITIES :**
           * **GODOT-GENERAL-PURPOSE-UTILS :**
                * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
@@ -27,15 +26,11 @@ The repository categories are as follows :
                * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)
           * **GODOT-BODIES-TEMPLATES :**
                * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template)
-                 
+<br/>  
      * **GODOT-DEMOS :**
-       
+<br/>       
      * **GODOT-ACTIVITIES :**
-
-
-
-
-       
+<br/><br/><br/><br/><br/>     
 * **NODE.JS - ELECTRON (HTML-CSS-JAVASCRIPT) :**
   <!--
 * UNREAL
