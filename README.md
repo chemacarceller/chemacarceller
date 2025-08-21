@@ -6,7 +6,7 @@ Also the name of the repository is prefixed by the name of the top-level categor
 
 The repository categories are as follows :
 <br/><br/>
-* **GODOT :** <br/><br/>
+* **GODOT :** <br/>
      * **GODOT-COMPONENTS :** 
           * **GODOT-MOVEMENT-COMPONENTS :**
                * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
@@ -16,17 +16,17 @@ The repository categories are as follows :
                * [Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
                * [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
           * **GODOT-CONTROLLER-COMPONENTS :**
-               * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component) <br/><br/>
-     * **GODOT-UTILITIES :** <br/><br/>
+               * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component) <br/>
+     * **GODOT-UTILITIES :** <br/>
           * **GODOT-GENERAL-PURPOSE-UTILS :**
                * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
           * **GODOT-THIRD-PERSON-CHARACTERS :**
                * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)
                * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)
           * **GODOT-BODIES-TEMPLATES :**
-               * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template) <br/><br/>
-     * **GODOT-DEMOS :** <br/><br/>
-     * **GODOT-ACTIVITIES :** <br/><br/><br/><br/><br/>
+               * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template) <br/>
+     * **GODOT-DEMOS :** <br/>
+     * **GODOT-ACTIVITIES :** <br/><br/><br/>
 * **NODE.JS - ELECTRON (HTML-CSS-JAVASCRIPT) :**
   <!--
 * UNREAL
