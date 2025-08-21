@@ -7,17 +7,17 @@ Also the name of the repository is prefixed by the name of the top-level categor
 The repository categories are as follows :
 
 # * GODOT
-##     * GODOT-COMPONENTS
-###         * GODOT-MOVEMENT-COMPONENTS :
-                 * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
-                 * [Basic Vehicle Movement Component](https://github.com/chemacarceller/Godot-Basic-Vehicle-Movement-Component)
-                 * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)
-                 * [Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)
-                 * [Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
-                 * [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
-###         * GODOT-CONTROLLER-COMPONENTS :
-                 * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
-##     * GODOT-UTILITIES :
+## * GODOT-COMPONENTS
+### * GODOT-MOVEMENT-COMPONENTS :
+     [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
+     [Basic Vehicle Movement Component](https://github.com/chemacarceller/Godot-Basic-Vehicle-Movement-Component)
+     [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)
+     [Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)
+     [Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
+     [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
+### * GODOT-CONTROLLER-COMPONENTS :
+     [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
+## * GODOT-UTILITIES :
 ###         * GODOT-GENERAL-PURPOSE-UTILS :
                  * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
 ###         * GODOT-THIRD-PERSON-CHARACTERS :
