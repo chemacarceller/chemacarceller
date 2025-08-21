@@ -6,7 +6,7 @@ Also the name of the repository is prefixed by the name of the top-level categor
 
 The repository categories are as follows :
 
-* <h1>**GODOT :**</h1>
+* **GODOT :**
      * **GODOT-COMPONENTS :**
           * **GODOT-MOVEMENT-COMPONENTS :**
                * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
