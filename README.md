@@ -25,8 +25,8 @@ The repository categories are as follows :
                * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)
           * **GODOT-BODIES-TEMPLATES :**
                * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template) <br/>
-     * **GODOT-DEMOS :** <br/>
-          * [NodeJS mongoTool](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
+     * **GODOT-DEMOS :**
+          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
      * **GODOT-ACTIVITIES :** <br/><br/><br/>
 * **NODE.JS - ELECTRON (HTML-CSS-JAVASCRIPT) :**<br/>
      * **NODEJS MODULES :**<br/>
