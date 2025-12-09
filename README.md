@@ -26,6 +26,7 @@ The repository categories are as follows :
           * **GODOT-BODIES-TEMPLATES :**
                * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template) <br/>
      * **GODOT-DEMOS :** <br/>
+          * [NodeJS mongoTool](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
      * **GODOT-ACTIVITIES :** <br/><br/><br/>
 * **NODE.JS - ELECTRON (HTML-CSS-JAVASCRIPT) :**<br/>
      * **NODEJS MODULES :**<br/>
