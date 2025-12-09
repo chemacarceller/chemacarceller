@@ -29,8 +29,8 @@ The repository categories are as follows :
      * **GODOT-ACTIVITIES :** <br/><br/><br/>
 * **NODE.JS - ELECTRON (HTML-CSS-JAVASCRIPT) :** <br/>
     * **NODEJS MODULES :** <br/>
-         * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
-* **ACTIVITIES :** <br/>
+         * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool) <br />
+    * **ACTIVITIES :** <br/>
   <!--
 * UNREAL
      * UNREAL-ACTIVITIES :
