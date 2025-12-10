@@ -29,7 +29,7 @@ The repository categories are as follows :
      * **GODOT-ACTIVITIES :** <br/><br/><br/>
 * **NODE.JS - ELECTRON (HTML-CSS-JAVASCRIPT) :** <br/>
     * **NODEJS MODULES :** <br/>
-         * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool) : <br />Nodejs module (class) that works on mongoose to enable primary keys and auto-incrementing fields in a colection <br />
+         * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool) : <br />This is the development of a Nodejs module that works on Mongoose to allow the management of primary keys and auto-incrementing fields within a collection<br />
     * **ACTIVITIES :** <br/>
   <!--
 * UNREAL
