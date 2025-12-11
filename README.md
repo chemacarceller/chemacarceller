@@ -31,6 +31,7 @@ The repository categories are as follows :
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool) : <br />This is the development of a Nodejs module that works on mongoose to allow the management of primary keys and auto-incrementing fields within a collection<br />
     * **ACTIVITIES :** <br/>
+        * ElectronJS Actividad Factura](https://github.com/chemacarceller/NodeJS-mongoTool) : <br />This is the development of a Nodejs module that works on mongoose to allow the management of primary keys and auto-incrementing fields within a collection<br />
   <!--
 * UNREAL
      * UNREAL-ACTIVITIES :
