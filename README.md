@@ -31,7 +31,7 @@ The repository categories are as follows :
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool) : <br />This is the development of a Nodejs module that works on mongoose to allow the management of primary keys and auto-incrementing fields within a collection<br />
     * **ACTIVITIES :** <br/>
-        * [ElectronJS Actividad Factura](https://github.com/chemacarceller/ElectronJS-Actividad-Factura) : <br />This is the development of a Nodejs module that works on mongoose to allow the management of primary keys and auto-incrementing fields within a collection<br />
+        * [ElectronJS Actividad Factura](https://github.com/chemacarceller/ElectronJS-Actividad-Factura) : <br />Desarrollo por fases de una actividad de gestión de facturas. Fase 1 sin persistencia de datos. Fase 2 con persistencia de datos en fichero (versiones con modulos (import, require) y version aplicado el Modelo-Vista-Controlador). Fase 3 : Persistencia de datos en fichero, MVC e implementación de canales de comunicación IPC e incorporación de menus y cajas de dialogos nativas. Fase 4 : Persistencia de datos en BBDD relacionales (MySQL y SQLite) y No-SQL (MongoDB) con IPC, menus y caja de dialogos nativas + Modelo Vista Controlador extendido, así como la utilización del modulo propio mongoTool en la versión MongoDB<br />
   <!--
 * UNREAL
      * UNREAL-ACTIVITIES :
