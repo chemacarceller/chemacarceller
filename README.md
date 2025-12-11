@@ -30,7 +30,7 @@ The repository categories are as follows :
 * **NODE.JS - ELECTRON (HTML-CSS-JAVASCRIPT) :** <br/>
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br />
-    * **ACTIVITIES :** <br/>
+    * **ELECTRONJS ACTIVITIES :** <br/>
         * [ElectronJS Actividad Factura](https://github.com/chemacarceller/ElectronJS-Actividad-Factura)<br />
   <!--
 * UNREAL
