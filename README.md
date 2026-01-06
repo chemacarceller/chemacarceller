@@ -9,7 +9,7 @@ The repository categories are as follows :
 * **GODOT :** <br/>
      * **GODOT-COMPONENTS :** <br />
           * **GODOT-MOVEMENT-COMPONENTS :** <br />
-              **GODOT-BASIC-MOVEMENT-COMPONENTS :** <br />
+              * **GODOT-BASIC-MOVEMENT-COMPONENTS :** <br />
                   * [Basic Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
                   * [Basic Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
                   * [Basic Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
