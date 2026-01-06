@@ -7,27 +7,27 @@ Also the name of the repository is prefixed by the name of the top-level categor
 The repository categories are as follows :
 <br/><br/>
 * **GODOT :** <br/>
-     * **GODOT-COMPONENTS :** 
-          * **GODOT-MOVEMENT-COMPONENTS :**
-                * **GODOT-BASIC-MOVEMENT-COMPONENTS :**
+     * **GODOT-COMPONENTS :** <br />
+          * **GODOT-MOVEMENT-COMPONENTS :** <br />
+                * **GODOT-BASIC-MOVEMENT-COMPONENTS :** <br />
                     * [Basic Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
                     * [Basic Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
                     * [Basic Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
                     * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)<br />
-                * **GODOT-USEFUL-MOVEMENT-COMPONENTS :**
+                * **GODOT-USEFUL-MOVEMENT-COMPONENTS :** <br />
                     * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)<br />
                     * [Basic Vehicle Movement Component](https://github.com/chemacarceller/Godot-Basic-Vehicle-Movement-Component)<br />
-          * **GODOT-CONTROLLER-COMPONENTS :**
+          * **GODOT-CONTROLLER-COMPONENTS :** <br />
                * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component) <br/>
      * **GODOT-UTILITIES :** <br/>
-          * **GODOT-GENERAL-PURPOSE-UTILS :**
+          * **GODOT-GENERAL-PURPOSE-UTILS :** <br />
                * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)<br />
-          * **GODOT-THIRD-PERSON-CHARACTERS :**
+          * **GODOT-THIRD-PERSON-CHARACTERS :** <br />
                * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)<br />
                * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)<br />
-          * **GODOT-BODIES-TEMPLATES :**
+          * **GODOT-BODIES-TEMPLATES :** <br />
                * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template) <br/>
-     * **GODOT-DEMOS :**
+     * **GODOT-DEMOS :** <br />
      * **GODOT-ACTIVITIES :** <br/><br/><br/>
 * **NODE.JS - ELECTRONJS (JAVASCRIPT/TYPESCRIPT) :** <br/>
     * **NODEJS MODULES :** <br/>
