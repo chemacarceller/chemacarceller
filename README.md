@@ -10,21 +10,21 @@ The repository categories are as follows :
      * **GODOT-COMPONENTS :** 
           * **GODOT-MOVEMENT-COMPONENTS :**
                 * **GODOT-BASIC-MOVEMENT-COMPONENTS :**
-                    * [Basic Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
-                    * [Basic Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
-                    * [Basic Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)
-                    * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)
+                    * [Basic Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
+                    * [Basic Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
+                    * [Basic Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
+                    * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)<br />
                 * **GODOT-USEFUL-MOVEMENT-COMPONENTS :**
-                    * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)
-                    * [Basic Vehicle Movement Component](https://github.com/chemacarceller/Godot-Basic-Vehicle-Movement-Component)
+                    * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)<br />
+                    * [Basic Vehicle Movement Component](https://github.com/chemacarceller/Godot-Basic-Vehicle-Movement-Component)<br />
           * **GODOT-CONTROLLER-COMPONENTS :**
                * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component) <br/>
      * **GODOT-UTILITIES :** <br/>
           * **GODOT-GENERAL-PURPOSE-UTILS :**
-               * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
+               * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)<br />
           * **GODOT-THIRD-PERSON-CHARACTERS :**
-               * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)
-               * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)
+               * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)<br />
+               * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)<br />
           * **GODOT-BODIES-TEMPLATES :**
                * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template) <br/>
      * **GODOT-DEMOS :**
