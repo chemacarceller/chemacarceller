@@ -9,14 +9,14 @@ The repository categories are as follows :
 * **GODOT :** <br/>
      * **GODOT-COMPONENTS :** <br />
           * **GODOT-MOVEMENT-COMPONENTS :** <br />
-                * **GODOT-BASIC-MOVEMENT-COMPONENTS :** <br />
-                    * [Basic Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
-                    * [Basic Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
-                    * [Basic Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
-                    * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)<br />
-                * **GODOT-USEFUL-MOVEMENT-COMPONENTS :** <br />
-                    * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)<br />
-                    * [Basic Vehicle Movement Component](https://github.com/chemacarceller/Godot-Basic-Vehicle-Movement-Component)<br />
+              **GODOT-BASIC-MOVEMENT-COMPONENTS :** <br />
+                  * [Basic Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
+                  * [Basic Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
+                  * [Basic Following Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
+                  * [Basic Projectile Movement Component](https://github.com/chemacarceller/GODOT-Basic-Projectile-Movement-Component)<br />
+              **GODOT-USEFUL-MOVEMENT-COMPONENTS :** <br />
+                  * [Basic Character Movement Component](https://github.com/chemacarceller/GODOT-Basic-Character-Movement-Component)<br />
+                  * [Basic Vehicle Movement Component](https://github.com/chemacarceller/Godot-Basic-Vehicle-Movement-Component)<br />
           * **GODOT-CONTROLLER-COMPONENTS :** <br />
                * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component) <br/>
      * **GODOT-UTILITIES :** <br/>
