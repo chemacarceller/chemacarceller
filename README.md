@@ -35,8 +35,11 @@ The repository categories are as follows :
     * **ELECTRONJS ACTIVITIES :** <br/>
         * [ElectronJS Activity 1 : Actividad Factura (in spanish)](https://github.com/chemacarceller/ElectronJS-Actividad-Factura)<br/><br/><br/>
 * **PYTHON :** <br/>
-    * **MODULES :** <br/>
+    * **PYTHON MODULES :** <br/>
          <br />
+    * **UTILITIES :** <br/>
+        <br/>
     * **ACTIVITIES :** <br/>
         <br/>
+
 
