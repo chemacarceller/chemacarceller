@@ -38,7 +38,7 @@ The repository categories are as follows :
     * **PYTHON MODULES :** <br/>
          <br />
     * **UTILITIES :** <br/>
-        <br/>
+        * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/><br/><br/>
     * **ACTIVITIES :** <br/>
         <br/>
 
