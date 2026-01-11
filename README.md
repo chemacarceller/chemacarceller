@@ -34,7 +34,6 @@ The repository categories are as follows :
         * [ElectronJS Activity 1 : Actividad Factura (in spanish)](https://github.com/chemacarceller/ElectronJS-Actividad-Factura)<br/><br/><br/>
 * **PYTHON :** <br/>
     * **PYTHON MODULES :** <br/>
-         <br />
     * **PYTHON UTILITIES :** <br/>
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/>
 * **BASH :** <br/>
