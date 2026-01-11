@@ -41,7 +41,7 @@ The repository categories are as follows :
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/>
     * **PYTHON ACTIVITIES :** <br/><br/><br/>
 * **BASH :** <br/>
-    * **PYTHON UTILITIES :** <br/>
+    * **BASH UTILITIES :** <br/>
         * [Bash QuickFolderSynchro](https://github.com/chemacarceller/BASH-QuickFolderSynchro)<br/><br/><br/>
 
 
