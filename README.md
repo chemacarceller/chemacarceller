@@ -31,7 +31,7 @@ The repository categories are as follows :
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br />
     * **ELECTRONJS ACTIVITIES :** <br/>
-        * [ElectronJS Activity 1 : Actividad Factura](https://github.com/chemacarceller/ElectronJS-Actividad-Factura)<br/><br/><br/>
+        * [ElectronJS Actividad 1 : Factura](https://github.com/chemacarceller/ElectronJS-Actividad-Factura)<br/><br/><br/>
 * **PYTHON :** <br/>
     * **PYTHON MODULES :** <br/>
     * **PYTHON UTILITIES :** <br/>
