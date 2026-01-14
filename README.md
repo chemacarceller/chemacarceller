@@ -31,12 +31,14 @@ The repository categories are as follows :
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br />
     * **ELECTRONJS ACTIVITIES :** <br/>
-        * [ElectronJS Actividad 1 : Factura](https://github.com/chemacarceller/ElectronJS-Actividad-Factura)<br/><br/><br/>
+    * **ELECTRONJS UTILITIES :** <br/><br/><br/>
 * **PYTHON :** <br/>
     * **PYTHON MODULES :** <br/>
+    * **PYTHON ACTIVITIES :** <br/>
     * **PYTHON UTILITIES :** <br/>
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/><br/><br/>
 * **BASH :** <br/>
+    * **BASH ACTIVITIES :** <br/>
     * **BASH UTILITIES :** <br/>
         * [Bash QuickFolderSynchro](https://github.com/chemacarceller/BASH-QuickFolderSynchro)<br/><br/><br/>
 
