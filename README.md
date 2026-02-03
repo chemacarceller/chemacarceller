@@ -31,6 +31,7 @@ The repository categories are as follows :
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br/>
     * **NODEJS UTILITIES :** <br/>
+    * **NODEJS CODE TESTING :** <br/>
         * [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)<br/>
     * **ELECTRONJS ACTIVITIES :** <br/>
     * **ELECTRONJS UTILITIES :** <br/><br/><br/>
@@ -38,8 +39,9 @@ The repository categories are as follows :
     * **PYTHON MODULES :** <br/>
     * **PYTHON ACTIVITIES :** <br/>
     * **PYTHON UTILITIES :** <br/>
-        * [Python asyncTest](https://github.com/chemacarceller/PYTHON-async-Test)<br/>
-        * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/><br/><br/>
+        * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/>
+    * **PYTHON CODE TESTING :** <br/>
+        * [Python asyncTest](https://github.com/chemacarceller/PYTHON-async-Test)<br/><br/><br/>
 * **BASH :** <br/>
     * **BASH ACTIVITIES :** <br/>
     * **BASH UTILITIES :** <br/>
