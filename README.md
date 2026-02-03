@@ -37,6 +37,7 @@ The repository categories are as follows :
     * **ELECTRONJS UTILITIES :** <br/><br/><br/>
 * **PYTHON :** <br/>
     * **PYTHON MODULES :** <br/>
+         * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>
     * **PYTHON ACTIVITIES :** <br/>
     * **PYTHON UTILITIES :** <br/>
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/>
