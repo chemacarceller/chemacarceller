@@ -31,7 +31,7 @@ The repository categories are as follows :
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br/>
     * **NODEJS UTILITIES :** <br/>
-        * [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-asyncTest)<br/>
+        * [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)<br/>
     * **ELECTRONJS ACTIVITIES :** <br/>
     * **ELECTRONJS UTILITIES :** <br/><br/><br/>
 * **PYTHON :** <br/>
