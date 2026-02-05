@@ -40,12 +40,13 @@ The repository categories are as follows :
          * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>
     * **PYTHON ACTIVITIES :** <br/>
     * **PYTHON UTILITIES :** <br/>
-        * [Python QuickFolderSynchro](https://github.com/chemacarceller/PYTHON-QuickFolderSynchro)<br/>
+        * [Python QuickFolderSynchro](https://github.com/chemacarceller/Python-QuickFolderSynchro)<br/>
     * **PYTHON CODE TESTING :** <br/>
-        * [Python asyncTest](https://github.com/chemacarceller/PYTHON-async-Test)<br/><br/><br/>
+        * [Python asyncTest](https://github.com/chemacarceller/Python-async-Test)<br/>
+        * [Python with Statement Catching Exceptions](https://github.com/chemacarceller/Python-with-statement-catch-exception-test)<br/><br/><br/>
 * **BASH :** <br/>
     * **BASH ACTIVITIES :** <br/>
     * **BASH UTILITIES :** <br/>
-        * [Bash QuickFolderSynchro](https://github.com/chemacarceller/BASH-QuickFolderSynchro)<br/><br/><br/>
+        * [Bash QuickFolderSynchro](https://github.com/chemacarceller/Bash-QuickFolderSynchro)<br/><br/><br/>
 
 
