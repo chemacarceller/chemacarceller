@@ -27,6 +27,9 @@ The repository categories are as follows :
                * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)<br />
           * **GODOT-BODIES-TEMPLATES :** <br />
                * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template)<br/><br/><br/>
+     * **GODOT-DEMOS :** <br/>
+          <!-- * [Third Person Character Demo]()<br/><br/><br/>  -->
+    
 * **NODE.JS - ELECTRONJS (JAVASCRIPT/TYPESCRIPT) :** <br/>
     * **NODEJS MODULES :** <br/>
          * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br/>
@@ -37,7 +40,7 @@ The repository categories are as follows :
     * **ELECTRONJS UTILITIES :** <br/><br/><br/>
 * **PYTHON :** <br/>
     * **PYTHON MODULES :** <br/>
-         * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>
+       <!--  * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>    -->
     * **PYTHON ACTIVITIES :** <br/>
     * **PYTHON UTILITIES :** <br/>
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/Python-QuickFolderSynchro)<br/>
