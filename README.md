@@ -47,10 +47,9 @@ The repository categories are as follows :
     * **PYTHON CODE TESTING :** <br/>
         * [Python asyncTest](https://github.com/chemacarceller/Python-async-Test)<br/><br/><br/>
 * **C / C++ :** <br/>
-    * **PYTHON MODULES :** <br/>
-    * **PYTHON ACTIVITIES :** <br/>
-    * **PYTHON UTILITIES :** <br/>
-    * **PYTHON CODE TESTING :** <br/><br/><br/>
+    * **C / C++ ACTIVITIES :** <br/>
+    * **C / C++ UTILITIES :** <br/>
+    * **C / C++ CODE TESTING :** <br/><br/><br/>
 * **BASH :** <br/>
     * **BASH ACTIVITIES :** <br/>
     * **BASH UTILITIES :** <br/>
