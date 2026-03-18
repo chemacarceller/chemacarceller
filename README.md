@@ -46,6 +46,11 @@ The repository categories are as follows :
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/Python-QuickFolderSynchro)<br/>
     * **PYTHON CODE TESTING :** <br/>
         * [Python asyncTest](https://github.com/chemacarceller/Python-async-Test)<br/><br/><br/>
+* **C / C++ :** <br/>
+    * **PYTHON MODULES :** <br/>
+    * **PYTHON ACTIVITIES :** <br/>
+    * **PYTHON UTILITIES :** <br/>
+    * **PYTHON CODE TESTING :** <br/><br/><br/>
 * **BASH :** <br/>
     * **BASH ACTIVITIES :** <br/>
     * **BASH UTILITIES :** <br/>
