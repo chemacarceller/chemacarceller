@@ -29,15 +29,12 @@ The repository categories are as follows :
                * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template)<br/>
      * **GODOT-DEMOS :** <br/>
           * [Third Person Character Demo](https://github.com/chemacarceller/Godot-Third-Person-Character-Demo)<br/><br/><br/>
-    
-* **NODE.JS - ELECTRONJS (JAVASCRIPT/TYPESCRIPT) :** <br/>
-    * **NODEJS MODULES :** <br/>
-         * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br/>
-    * **NODEJS UTILITIES :** <br/>
-    * **NODEJS CODE TESTING :** <br/>
-        * [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)<br/>
-    * **ELECTRONJS ACTIVITIES :** <br/>
-    * **ELECTRONJS UTILITIES :** <br/><br/><br/>
+
+* **C / C++ :** <br/>
+    * **C / C++ ACTIVITIES :** <br/>
+    * **C / C++ UTILITIES :** <br/>
+    * **C / C++ CODE TESTING :** <br/><br/><br/>
+        
 * **PYTHON :** <br/>
     * **PYTHON MODULES :** <br/>
        <!--  * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>    -->
@@ -46,13 +43,17 @@ The repository categories are as follows :
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/Python-QuickFolderSynchro)<br/>
     * **PYTHON CODE TESTING :** <br/>
         * [Python asyncTest](https://github.com/chemacarceller/Python-async-Test)<br/><br/><br/>
-* **C / C++ :** <br/>
-    * **C / C++ ACTIVITIES :** <br/>
-    * **C / C++ UTILITIES :** <br/>
-    * **C / C++ CODE TESTING :** <br/><br/><br/>
+        
+* **NODE.JS - ELECTRONJS (JAVASCRIPT/TYPESCRIPT) :** <br/>
+    * **NODEJS MODULES :** <br/>
+         * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br/>
+    * **NODEJS UTILITIES :** <br/>
+    * **NODEJS CODE TESTING :** <br/>
+        * [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)<br/>
+    * **ELECTRONJS ACTIVITIES :** <br/>
+    * **ELECTRONJS UTILITIES :** <br/><br/><br/>
+        
 * **BASH :** <br/>
     * **BASH ACTIVITIES :** <br/>
     * **BASH UTILITIES :** <br/>
         * [Bash QuickFolderSynchro](https://github.com/chemacarceller/Bash-QuickFolderSynchro)<br/><br/><br/>
-
-
