@@ -10,9 +10,9 @@ The repository categories are as follows :
      * **GODOT-COMPONENTS :** <br />
           * **GODOT-MOVEMENT-COMPONENTS :** <br />
               * **GODOT-BASIC-MOVEMENT-COMPONENTS :** <br />
-                  * [Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
-                  * [Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
-                  * [Following-Body Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
+                  * [Random C++ GDExtension Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
+                  * [Rotating C++ GDExtension Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
+                  * [Following Body Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
               * **GODOT-ADVANCED-MOVEMENT-COMPONENTS :** <br />
                   * [Projectile Movement Component](https://github.com/chemacarceller/GODOT-Projectile-Movement-Component)<br />
                   * [Character Movement Component](https://github.com/chemacarceller/GODOT-Character-Movement-Component)<br />
@@ -22,7 +22,7 @@ The repository categories are as follows :
      * **GODOT-UTILITIES :** <br/>
           * **GODOT-GENERAL-PURPOSE-UTILS :** <br />
                * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)<br />
-               * [Advanced Logger Class](https://github.com/chemacarceller/Godot-Advanced-Logger-Class)<br />
+               * [Advanced C++ GDExtension Logger Class](https://github.com/chemacarceller/Godot-Advanced-Logger-Class)<br />
           * **GODOT-THIRD-PERSON-CHARACTERS :** <br />
                * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)<br />
                * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)<br />
