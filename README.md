@@ -44,7 +44,8 @@ The repository categories are as follows :
     * **PYTHON UTILITIES :** <br/>
         * [Python QuickFolderSynchro](https://github.com/chemacarceller/Python-QuickFolderSynchro)<br/>
     * **PYTHON CODE TESTING :** <br/>
-        * [Python asyncTest](https://github.com/chemacarceller/Python-async-Test)<br/><br/><br/>
+        * [Python asyncTest](https://github.com/chemacarceller/Python-async-Test)<br/>
+        * [Python singleton class][(https://github.com/chemacarceller/Python-Singleton-Class)]<br/><br/><br/>        
         
 * **NODE.JS - ELECTRONJS (JAVASCRIPT/TYPESCRIPT) :** <br/>
     * **NODEJS MODULES :** <br/>
