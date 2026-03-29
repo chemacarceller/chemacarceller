@@ -34,7 +34,8 @@ The repository categories are as follows :
 * **C / C++ :** <br/>
     * **C / C++ ACTIVITIES :** <br/>
     * **C / C++ UTILITIES :** <br/>
-        * [Basic C++ Logger Class](https://github.com/chemacarceller/Basic-C-Logger-Class)<br/>
+        * [Basic C++ Logger Class](https://github.com/chemacarceller/CPP-Basic-Logger-Class)<br/>
+        * [Advanced C++ Logger Class](https://github.com/chemacarceller/CPP-Advanced-Logger-Class)<br/>
     * **C / C++ CODE TESTING :** <br/><br/><br/>
         
 * **PYTHON :** <br/>
