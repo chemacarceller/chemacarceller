@@ -13,8 +13,8 @@ The repository categories are as follows :
                   * [C++ GDExtension Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
                   * [C++ GDExtension Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
                   * [Following Body Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
-              * **GODOT-ADVANCED-MOVEMENT-COMPONENTS :** <br />
                   * [Projectile Movement Component](https://github.com/chemacarceller/GODOT-Projectile-Movement-Component)<br />
+              * **GODOT-ADVANCED-MOVEMENT-COMPONENTS :** <br />
                   * [Character Movement Component](https://github.com/chemacarceller/GODOT-Character-Movement-Component)<br />
                   * [Vehicle Movement Component](https://github.com/chemacarceller/Godot-Vehicle-Movement-Component)<br />
           * **GODOT-CONTROLLER-COMPONENTS :** <br />
