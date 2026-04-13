@@ -23,6 +23,7 @@ The repository categories are as follows :
           * **GODOT-GENERAL-PURPOSE-UTILS :** <br />
                * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)<br />
                * [Basic Level Manager Utility](https://github.com/chemacarceller/GODOT-Basic-Level-Manager-Utility)<br />
+               * [Basic Lighting System Utility](https://github.com/chemacarceller/Godot-Basic-Lighting-System-Utility)<br />
                * [C++ GDExtension Advanced Logger Class](https://github.com/chemacarceller/Godot-Advanced-Logger-Class)<br />
           * **GODOT-THIRD-PERSON-CHARACTERS :** <br />
                * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)<br />
