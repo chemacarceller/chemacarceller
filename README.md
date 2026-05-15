@@ -25,10 +25,10 @@
     *   [Basic Loading Screen Utility](#)
     *   [Basic Level Manager Utility](#)
     *   [Basic Lighting System Utility](#)
-    *   [C++ GDExtension Advanced Logger Class](#)
+    *   [C++ GDExtension Advanced Logger Class](#)<br /><br />
 *   **💃 GODOT-THIRD-PERSON-CHARACTERS**
     *   [Third Person Character Mixamo Manequin Woman](#)
-    *   [Third Person Character Mixamo Manequin Man](#)
+    *   [Third Person Character Mixamo Manequin Man](#)<br /><br />
 *   **💀 GODOT-BODIES-TEMPLATES**
     *   [CharacterBody with Skeleton3D Template](#)
 
