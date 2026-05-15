@@ -15,7 +15,7 @@ Also the name of the repository is prefixed by the name of the top-level categor
 <details>
 <summary><b>### 🎮 GODOT</b></summary>
 
-<b>📦 GODOT-COMPONENTS</b>
+<br /><b>📦 GODOT-COMPONENTS</b>
 *   **🚀 GODOT-MOVEMENT-COMPONENTS**
     *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
         *   [C++ GDExtension Random Movement Component](#)
