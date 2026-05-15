@@ -50,13 +50,12 @@ Also the name of the repository is prefixed by the name of the top-level categor
   
 <br /><b>📝 C / C++ ACTIVITIES</b>
 
-<b>🛠️ C / C++ UTILITIES</b></summary>
-
+<b>🛠️ C / C++ UTILITIES</b>
 *   [Basic C++ Logger Class](#)
 *   [Advanced C++ Logger Class](#)
 *   [Advanced Plus C++ Logger Class](#)
 
-<b>🧪 C / C++ CODE TESTING</b></summary>
+<b>🧪 C / C++ CODE TESTING</b>
 </details>
 
 ---
@@ -68,11 +67,10 @@ Also the name of the repository is prefixed by the name of the top-level categor
 
 <b>📝 PYTHON ACTIVITIES</b>
 
-<b>🛠️ PYTHON UTILITIES</b></summary>
+<b>🛠️ PYTHON UTILITIES</b>
 *   [Python QuickFolderSynchro](#)
 
-<b>🧪 PYTHON CODE TESTING</b></summary>
-
+<b>🧪 PYTHON CODE TESTING</b>
 *   [Python asyncTest](#)
 *   [Python singleton class](#)
 </details>
@@ -82,7 +80,7 @@ Also the name of the repository is prefixed by the name of the top-level categor
 <details>
 <summary><b>⚡ NODE.JS - ELECTRONJS</b></summary>
 
-<b>📦 NODEJS MODULES</b>
+<br /><b>📦 NODEJS MODULES</b>
 *   [NodeJS mongoTool](#)
 
 <b>🛠️ NODEJS UTILITIES</b>
@@ -97,17 +95,12 @@ Also the name of the repository is prefixed by the name of the top-level categor
 
 ---
 
-### 🐚 BASH
-
 <details>
-<summary><b>📝 BASH ACTIVITIES</b></summary>
+<summary><b>🐚 BASH</b></summary>
+  
+<br /><b>📝 BASH ACTIVITIES</b>
 
-*   *(Space for your Bash activities)*
-</details>
-
-<details>
-<summary><b>🛠️ BASH UTILITIES</b></summary>
-
+<b>🛠️ BASH UTILITIES</b>
 *   [Bash QuickFolderSynchro](#)
 </details>
 
