@@ -1,6 +1,6 @@
 # 📚 My Code Components & Notes Hub
 
-<p align="center">
+<p align="left">
   <b>🌟 ****************** &nbsp;&nbsp; CODE-COMPONENTS &nbsp;&nbsp; ****************** 🌟</b>
 </p>
 
@@ -10,7 +10,7 @@
 <br /><b>📦 GODOT-COMPONENTS</b>
 *   **🚀 GODOT-MOVEMENT-COMPONENTS**
     *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
-        *   [C++ GDExtension Random Movement Component](#)
+        *   [C++ GDExtension Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
         *   [C++ GDExtension Rotating Movement Component](#)
         *   [Following Body Movement Component](#)
         *   [Projectile Movement Component](#)
@@ -96,7 +96,7 @@
 *   [Bash QuickFolderSynchro](#)
 </details>
 
-<p align="center">
+<p align="left">
   <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
 </p>
 
