@@ -13,7 +13,7 @@ Also the name of the repository is prefixed by the name of the top-level categor
 <br />
 
 <details>
-<summary><b>### 🎮 GODOT</b></summary>
+<summary><b>🎮 GODOT</b></summary>
 
 <br /><b>📦 GODOT-COMPONENTS</b>
 *   **🚀 GODOT-MOVEMENT-COMPONENTS**
@@ -45,28 +45,18 @@ Also the name of the repository is prefixed by the name of the top-level categor
 </details>
 
 ---
-
-### ⚙️ C / C++
-
 <details>
-<summary><b>📝 C / C++ ACTIVITIES</b></summary>
+<summary><b>⚙️ C / C++</b></summary>
+  
+<br /><b>📝 C / C++ ACTIVITIES</b>
 
-*   *(Space for your C/C++ activities)*
-</details>
-
-<details>
-<summary><b>🛠️ C / C++ UTILITIES</b></summary>
+<b>🛠️ C / C++ UTILITIES</b></summary>
 
 *   [Basic C++ Logger Class](#)
 *   [Advanced C++ Logger Class](#)
 *   [Advanced Plus C++ Logger Class](#)
-</details>
 
-<details>
-<summary><b>🧪 C / C++ CODE TESTING</b></summary>
-
-*   *(Space for C/C++ code testing)*
-</details>
+<b>🧪 C / C++ CODE TESTING</b></summary>
 
 ---
 
