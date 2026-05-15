@@ -57,31 +57,21 @@ Also the name of the repository is prefixed by the name of the top-level categor
 *   [Advanced Plus C++ Logger Class](#)
 
 <b>🧪 C / C++ CODE TESTING</b></summary>
+</details>
 
 ---
 
-### 🐍 PYTHON
-
 <details>
-<summary><b>📦 PYTHON MODULES</b></summary>
+<summary><b>🐍 PYTHON</b></summary>
 
-*   *(Space for your Python modules)*
-</details>
+<br /><b>📦 PYTHON MODULES</b>
 
-<details>
-<summary><b>📝 PYTHON ACTIVITIES</b></summary>
+<b>📝 PYTHON ACTIVITIES</b>
 
-*   *(Space for your Python activities)*
-</details>
-
-<details>
-<summary><b>🛠️ PYTHON UTILITIES</b></summary>
-
+<b>🛠️ PYTHON UTILITIES</b></summary>
 *   [Python QuickFolderSynchro](#)
-</details>
 
-<details>
-<summary><b>🧪 PYTHON CODE TESTING</b></summary>
+<b>🧪 PYTHON CODE TESTING</b></summary>
 
 *   [Python asyncTest](#)
 *   [Python singleton class](#)
