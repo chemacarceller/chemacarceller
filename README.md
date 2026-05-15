@@ -103,5 +103,5 @@
   <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
 </p>
 
-*   [Python vs GDScript](#)
-*   [C++ Programming Language](#)
+*   [Python vs GDScript](#) (not available yet)
+*   [C++ Programming Language](#) (not available yet)
