@@ -104,5 +104,5 @@
   <b>📖 ****************** &nbsp;&nbsp; Developer Notes Hub (Knowledge base) &nbsp;&nbsp; ****************** 📖</b>
 </p>
 
-*   [Python vs GDScript](#) (not available yet)
-*   [C++ Programming Language](#) (not available yet)
+*   [Python vs GDScript](#) (not available yet) (spanish only)
+*   [C++ Programming Language](#) (not available yet) (spanish only)
