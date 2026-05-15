@@ -1,8 +1,8 @@
-# 📚 My Code Components & Notes Hub
+# 📚 Code Sandbox, Componentsm, Utils & Notes Hub
 
 <br />
 <p align="center">
-  <b>🌟 ****************** &nbsp;&nbsp; CODE-COMPONENTS &nbsp;&nbsp; ****************** 🌟</b>
+  <b>🌟 ****************** &nbsp;&nbsp; Code Sandbox, Componentsm, Utils  &nbsp;&nbsp; ****************** 🌟</b>
 </p>
 
 <details>
