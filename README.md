@@ -8,12 +8,12 @@
 <summary><b>🎮 GODOT</b></summary>
 
 <br /><b>📦 GODOT-COMPONENTS</b>
-*   **🚀 GODOT-MOVEMENT-COMPONENTS**
+*   **🚀 GODOT-MOVEMENT-COMPONENTS**<br />
     *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
         *   [C++ GDExtension Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
         *   [C++ GDExtension Rotating Movement Component](#)
         *   [Following Body Movement Component](#)
-        *   [Projectile Movement Component](#)
+        *   [Projectile Movement Component](#)<br />
     *   *GODOT-ADVANCED-MOVEMENT-COMPONENTS:*
         *   [Character Movement Component](#)
         *   [Vehicle Movement Component](#)
