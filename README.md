@@ -1,7 +1,7 @@
 # 📚 My Code Components & Notes Hub
 
 <br />
-<p align="left">
+<p align="center">
   <b>🌟 ****************** &nbsp;&nbsp; CODE-COMPONENTS &nbsp;&nbsp; ****************** 🌟</b>
 </p>
 
@@ -100,7 +100,7 @@
 
 <br /><br />
 
-<p align="left">
+<p align="center">
   <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
 </p>
 
