@@ -97,6 +97,8 @@
 *   [Bash QuickFolderSynchro](https://github.com/chemacarceller/Bash-QuickFolderSynchro)
 </details>
 
+<br />
+
 <p align="left">
   <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
 </p>
