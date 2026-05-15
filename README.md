@@ -1,5 +1,6 @@
 # 📚 My Code Components & Notes Hub
 
+<br />
 <p align="left">
   <b>🌟 ****************** &nbsp;&nbsp; CODE-COMPONENTS &nbsp;&nbsp; ****************** 🌟</b>
 </p>
@@ -97,7 +98,7 @@
 *   [Bash QuickFolderSynchro](https://github.com/chemacarceller/Bash-QuickFolderSynchro)
 </details>
 
-<br />
+<br /><br />
 
 <p align="left">
   <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
