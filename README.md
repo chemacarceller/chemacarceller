@@ -1,66 +1,172 @@
-## Hi there 👋
+# 📚 My Code Components & Notes Hub
 
-My repositories are organized in a hierarchical structure of categories such as a folder hierarchical structure
+My repositories are organized in a hierarchical structure of categories such as a folder hierarchical structure.
 
 Also the name of the repository is prefixed by the name of the top-level category to which it belongs to be able to identify the repository more easily.
 
-The repository categories are as follows :
-<br/><br/>
-* **GODOT :** <br/>
-     * **GODOT-COMPONENTS :** <br />
-          * **GODOT-MOVEMENT-COMPONENTS :** <br />
-              * **GODOT-BASIC-MOVEMENT-COMPONENTS :** <br />
-                  * [C++ GDExtension Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)<br />
-                  * [C++ GDExtension Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)<br />
-                  * [Following Body Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)<br />
-                  * [Projectile Movement Component](https://github.com/chemacarceller/GODOT-Projectile-Movement-Component)<br />
-              * **GODOT-ADVANCED-MOVEMENT-COMPONENTS :** <br />
-                  * [Character Movement Component](https://github.com/chemacarceller/GODOT-Character-Movement-Component)<br />
-                  * [Vehicle Movement Component](https://github.com/chemacarceller/Godot-Vehicle-Movement-Component)<br />
-          * **GODOT-CONTROLLER-COMPONENTS :** <br />
-               * [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component) <br/>
-     * **GODOT-UTILITIES :** <br/>
-          * **GODOT-GENERAL-PURPOSE-UTILS :** <br />
-               * [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)<br />
-               * [Basic Level Manager Utility](https://github.com/chemacarceller/GODOT-Basic-Level-Manager-Utility)<br />
-               * [Basic Lighting System Utility](https://github.com/chemacarceller/Godot-Basic-Lighting-System-Utility)<br />
-               * [C++ GDExtension Advanced Logger Class](https://github.com/chemacarceller/Godot-Advanced-Logger-Class)<br />
-          * **GODOT-THIRD-PERSON-CHARACTERS :** <br />
-               * [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)<br />
-               * [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)<br />
-          * **GODOT-BODIES-TEMPLATES :** <br />
-               * [CharacterBody with Skeleton3D Template](https://github.com/chemacarceller/GODOT-CharacterBody-Skeleton-Template)<br/>
-     * **GODOT-DEMOS :** <br/>
-          * [Third Person Character Demo](https://github.com/chemacarceller/Godot-Third-Person-Character-Demo)<br/><br/><br/>
+<br />
 
-* **C / C++ :** <br/>
-    * **C / C++ ACTIVITIES :** <br/>
-    * **C / C++ UTILITIES :** <br/>
-        * [Basic C++ Logger Class](https://github.com/chemacarceller/CPP-Basic-Logger-Class)<br/>
-        * [Advanced C++ Logger Class](https://github.com/chemacarceller/CPP-Advanced-Logger-Class)<br/>
-        * [Advanced Plus C++ Logger Class](https://github.com/chemacarceller/CPP-Advanced-Plus-Logger-Class)<br/>
-    * **C / C++ CODE TESTING :** <br/><br/><br/>
-        
-* **PYTHON :** <br/>
-    * **PYTHON MODULES :** <br/>
-       <!--  * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>    -->
-    * **PYTHON ACTIVITIES :** <br/>
-    * **PYTHON UTILITIES :** <br/>
-        * [Python QuickFolderSynchro](https://github.com/chemacarceller/Python-QuickFolderSynchro)<br/>
-    * **PYTHON CODE TESTING :** <br/>
-        * [Python asyncTest](https://github.com/chemacarceller/Python-async-Test)<br/>
-        * [Python singleton class](https://github.com/chemacarceller/Python-Singleton-Class)<br/><br/><br/>        
-        
-* **NODE.JS - ELECTRONJS (JAVASCRIPT/TYPESCRIPT) :** <br/>
-    * **NODEJS MODULES :** <br/>
-         * [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)<br/>
-    * **NODEJS UTILITIES :** <br/>
-    * **NODEJS CODE TESTING :** <br/>
-        * [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)<br/>
-    * **ELECTRONJS ACTIVITIES :** <br/>
-    * **ELECTRONJS UTILITIES :** <br/><br/><br/>
-        
-* **BASH :** <br/>
-    * **BASH ACTIVITIES :** <br/>
-    * **BASH UTILITIES :** <br/>
-        * [Bash QuickFolderSynchro](https://github.com/chemacarceller/Bash-QuickFolderSynchro)<br/><br/><br/>
+<p align="center">
+  <b>🌟 ****************** &nbsp;&nbsp; CODE-COMPONENTS &nbsp;&nbsp; ****************** 🌟</b>
+</p>
+
+<br />
+
+### 🎮 GODOT
+
+<details>
+<summary><b>📦 GODOT-COMPONENTS</b></summary>
+
+*   **🚀 GODOT-MOVEMENT-COMPONENTS**
+    *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
+        *   [C++ GDExtension Random Movement Component](#)
+        *   [C++ GDExtension Rotating Movement Component](#)
+        *   [Following Body Movement Component](#)
+        *   [Projectile Movement Component](#)
+    *   *GODOT-ADVANCED-MOVEMENT-COMPONENTS:*
+        *   [Character Movement Component](#)
+        *   [Vehicle Movement Component](#)
+*   **🕹️ GODOT-CONTROLLER-COMPONENTS**
+    *   [Camera Controller Component](#)
+</details>
+
+<details>
+<summary><b>🛠️ GODOT-UTILITIES</b></summary>
+
+*   **⚙️ GODOT-GENERAL-PURPOSE-UTILS**
+    *   [Basic Loading Screen Utility](#)
+    *   [Basic Level Manager Utility](#)
+    *   [Basic Lighting System Utility](#)
+    *   [C++ GDExtension Advanced Logger Class](#)
+*   **💃 GODOT-THIRD-PERSON-CHARACTERS**
+    *   [Third Person Character Mixamo Manequin Woman](#)
+    *   [Third Person Character Mixamo Manequin Man](#)
+*   **💀 GODOT-BODIES-TEMPLATES**
+    *   [CharacterBody with Skeleton3D Template](#)
+</details>
+
+<details>
+<summary><b>🎬 GODOT-DEMOS</b></summary>
+
+*   [Third Person Character Demo](#)
+</details>
+
+---
+
+### ⚙️ C / C++
+
+<details>
+<summary><b>📝 C / C++ ACTIVITIES</b></summary>
+
+*   *(Space for your C/C++ activities)*
+</details>
+
+<details>
+<summary><b>🛠️ C / C++ UTILITIES</b></summary>
+
+*   [Basic C++ Logger Class](#)
+*   [Advanced C++ Logger Class](#)
+*   [Advanced Plus C++ Logger Class](#)
+</details>
+
+<details>
+<summary><b>🧪 C / C++ CODE TESTING</b></summary>
+
+*   *(Space for C/C++ code testing)*
+</details>
+
+---
+
+### 🐍 PYTHON
+
+<details>
+<summary><b>📦 PYTHON MODULES</b></summary>
+
+*   *(Space for your Python modules)*
+</details>
+
+<details>
+<summary><b>📝 PYTHON ACTIVITIES</b></summary>
+
+*   *(Space for your Python activities)*
+</details>
+
+<details>
+<summary><b>🛠️ PYTHON UTILITIES</b></summary>
+
+*   [Python QuickFolderSynchro](#)
+</details>
+
+<details>
+<summary><b>🧪 PYTHON CODE TESTING</b></summary>
+
+*   [Python asyncTest](#)
+*   [Python singleton class](#)
+</details>
+
+---
+
+### ⚡ NODE.JS - ELECTRONJS
+
+<details>
+<summary><b>📦 NODEJS MODULES</b></summary>
+
+*   [NodeJS mongoTool](#)
+</details>
+
+<details>
+<summary><b>🛠️ NODEJS UTILITIES</b></summary>
+
+*   *(Space for your NodeJS utilities)*
+</details>
+
+<details>
+<summary><b>🧪 NODEJS CODE TESTING</b></summary>
+
+*   [NodeJS asyncTest](#)
+</details>
+
+<details>
+<summary><b>🖼️ ELECTRONJS ACTIVITIES</b></summary>
+
+*   *(Space for your ElectronJS activities)*
+</details>
+
+<details>
+<summary><b>🛠️ ELECTRONJS UTILITIES</b></summary>
+
+*   *(Space for your ElectronJS utilities)*
+</details>
+
+---
+
+### 🐚 BASH
+
+<details>
+<summary><b>📝 BASH ACTIVITIES</b></summary>
+
+*   *(Space for your Bash activities)*
+</details>
+
+<details>
+<summary><b>🛠️ BASH UTILITIES</b></summary>
+
+*   [Bash QuickFolderSynchro](#)
+</details>
+
+<br />
+<hr style="border: 2px solid #e1e4e8;" />
+<br />
+
+<p align="center">
+  <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
+</p>
+
+<br />
+
+### 📘 THEORETICAL STUDY NOTES (Work in Progress)
+
+*   **🎮 Game Engines & Scripting**
+    *   - [ ] [Python vs GDScript](#)
+*   **⚙️ Core Programming**
+    *   - [ ] [C++ Programming Language](#)
