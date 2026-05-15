@@ -1,8 +1,8 @@
-# 📚 Code Sandbox, Components, Helpers & Notes Hub
+# 📚 Code Sandbox ( Components, Helpers, Testing code ) & Developer Notes Hub (Knowledge base)
 
 <br />
 <p align="center">
-  <b>🌟 ****************** &nbsp;&nbsp; Code Sandbox, Components, Helpers  &nbsp;&nbsp; ****************** 🌟</b>
+  <b>🌟 ****************** &nbsp;&nbsp; Code Sandbox ( Components, Helpers, Testing code )  &nbsp;&nbsp; ****************** 🌟</b>
 </p>
 
 <details>
@@ -101,7 +101,7 @@
 <br /><br />
 
 <p align="center">
-  <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
+  <b>📖 ****************** &nbsp;&nbsp; Developer Notes Hub (Knowledge base) &nbsp;&nbsp; ****************** 📖</b>
 </p>
 
 *   [Python vs GDScript](#) (not available yet)
