@@ -1,16 +1,8 @@
 # 📚 My Code Components & Notes Hub
 
-My repositories are organized in a hierarchical structure of categories such as a folder hierarchical structure.
-
-Also the name of the repository is prefixed by the name of the top-level category to which it belongs to be able to identify the repository more easily.
-
-<br />
-
 <p align="center">
   <b>🌟 ****************** &nbsp;&nbsp; CODE-COMPONENTS &nbsp;&nbsp; ****************** 🌟</b>
 </p>
-
-<br />
 
 <details>
 <summary><b>🎮 GODOT</b></summary>
@@ -104,15 +96,9 @@ Also the name of the repository is prefixed by the name of the top-level categor
 *   [Bash QuickFolderSynchro](#)
 </details>
 
-<br />
-<hr style="border: 2px solid #e1e4e8;" />
-<br />
-
 <p align="center">
   <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
 </p>
-
-<br />
 
 ### 📘 THEORETICAL STUDY NOTES (Work in Progress)
 
