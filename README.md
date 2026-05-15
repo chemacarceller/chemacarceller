@@ -100,9 +100,5 @@
   <b>📖 ****************** &nbsp;&nbsp; NOTES HUB &nbsp;&nbsp; ****************** 📖</b>
 </p>
 
-### 📘 THEORETICAL STUDY NOTES (Work in Progress)
-
-*   **🎮 Game Engines & Scripting**
-    *   - [ ] [Python vs GDScript](#)
-*   **⚙️ Core Programming**
-    *   - [ ] [C++ Programming Language](#)
+*   - [ ] [Python vs GDScript](#)
+*   - [ ] [C++ Programming Language](#)
