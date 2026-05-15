@@ -79,36 +79,20 @@ Also the name of the repository is prefixed by the name of the top-level categor
 
 ---
 
-### ⚡ NODE.JS - ELECTRONJS
-
 <details>
-<summary><b>📦 NODEJS MODULES</b></summary>
+<summary><b>⚡ NODE.JS - ELECTRONJS</b></summary>
 
+<b>📦 NODEJS MODULES</b>
 *   [NodeJS mongoTool](#)
-</details>
 
-<details>
-<summary><b>🛠️ NODEJS UTILITIES</b></summary>
+<b>🛠️ NODEJS UTILITIES</b>
 
-*   *(Space for your NodeJS utilities)*
-</details>
-
-<details>
-<summary><b>🧪 NODEJS CODE TESTING</b></summary>
-
+<b>🧪 NODEJS CODE TESTING</b>
 *   [NodeJS asyncTest](#)
-</details>
 
-<details>
-<summary><b>🖼️ ELECTRONJS ACTIVITIES</b></summary>
+<b>🖼️ ELECTRONJS ACTIVITIES</b>
 
-*   *(Space for your ElectronJS activities)*
-</details>
-
-<details>
-<summary><b>🛠️ ELECTRONJS UTILITIES</b></summary>
-
-*   *(Space for your ElectronJS utilities)*
+<b>🛠️ ELECTRONJS UTILITIES</b>
 </details>
 
 ---
