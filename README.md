@@ -12,11 +12,10 @@ Also the name of the repository is prefixed by the name of the top-level categor
 
 <br />
 
-### 🎮 GODOT
-
 <details>
-<summary><b>📦 GODOT-COMPONENTS</b></summary>
+<summary><b>### 🎮 GODOT</b></summary>
 
+<b>📦 GODOT-COMPONENTS</b>
 *   **🚀 GODOT-MOVEMENT-COMPONENTS**
     *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
         *   [C++ GDExtension Random Movement Component](#)
@@ -28,11 +27,8 @@ Also the name of the repository is prefixed by the name of the top-level categor
         *   [Vehicle Movement Component](#)
 *   **🕹️ GODOT-CONTROLLER-COMPONENTS**
     *   [Camera Controller Component](#)
-</details>
 
-<details>
-<summary><b>🛠️ GODOT-UTILITIES</b></summary>
-
+<b>🛠️ GODOT-UTILITIES</b>
 *   **⚙️ GODOT-GENERAL-PURPOSE-UTILS**
     *   [Basic Loading Screen Utility](#)
     *   [Basic Level Manager Utility](#)
@@ -43,11 +39,8 @@ Also the name of the repository is prefixed by the name of the top-level categor
     *   [Third Person Character Mixamo Manequin Man](#)
 *   **💀 GODOT-BODIES-TEMPLATES**
     *   [CharacterBody with Skeleton3D Template](#)
-</details>
 
-<details>
-<summary><b>🎬 GODOT-DEMOS</b></summary>
-
+<b>🎬 GODOT-DEMOS</b>
 *   [Third Person Character Demo](#)
 </details>
 
