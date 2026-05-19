@@ -57,7 +57,9 @@
 <details>
 <summary><b>🐍 PYTHON</b></summary>
 
-<br /><b>📦 PYTHON MODULES</b>
+<br />
+
+<!-- <b>📦 PYTHON MODULES</b>  -->
 <!--  * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>    -->
 
 <!-- <b>📝 PYTHON ACTIVITIES</b>  -->
