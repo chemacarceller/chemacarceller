@@ -40,14 +40,16 @@
 <details>
 <summary><b>⚙️ C / C++</b></summary>
   
-<br /><b>📝 C / C++ ACTIVITIES</b>
+<br />
+
+<!-- <b>📝 C / C++ ACTIVITIES</b>  -->
 
 <b>🛠️ C / C++ UTILITIES</b>
 *   [Basic C++ Logger Class](https://github.com/chemacarceller/CPP-Basic-Logger-Class)
 *   [Advanced C++ Logger Class](https://github.com/chemacarceller/CPP-Advanced-Logger-Class)
 *   [Advanced Plus C++ Logger Class](https://github.com/chemacarceller/CPP-Advanced-Plus-Logger-Class)
 
-<b>🧪 C / C++ CODE TESTING</b>
+<!-- <b>🧪 C / C++ CODE TESTING</b> -->
 </details>
 
 ---
@@ -58,7 +60,7 @@
 <br /><b>📦 PYTHON MODULES</b>
 <!--  * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>    -->
 
-<b>📝 PYTHON ACTIVITIES</b>
+<!-- <b>📝 PYTHON ACTIVITIES</b>  -->
 
 <b>🛠️ PYTHON UTILITIES</b>
 *   [Python QuickFolderSynchro](https://github.com/chemacarceller/Python-QuickFolderSynchro)
@@ -76,14 +78,14 @@
 <br /><b>📦 NODEJS MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
 
-<b>🛠️ NODEJS UTILITIES</b>
+<!-- <b>🛠️ NODEJS UTILITIES</b> -->
 
 <b>🧪 NODEJS CODE TESTING</b>
 *   [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)
 
-<b>🖼️ ELECTRONJS ACTIVITIES</b>
+<!-- <b>🖼️ ELECTRONJS ACTIVITIES</b> -->
 
-<b>🛠️ ELECTRONJS UTILITIES</b>
+<!-- <b>🛠️ ELECTRONJS UTILITIES</b>  -->
 </details>
 
 ---
