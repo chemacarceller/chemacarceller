@@ -95,7 +95,9 @@
 <details>
 <summary><b>🐚 BASH</b></summary>
   
-<br /><b>📝 BASH ACTIVITIES</b>
+<br />
+
+<!-- <b>📝 BASH ACTIVITIES</b>  -->
 
 <b>🛠️ BASH UTILITIES</b>
 *   [Bash QuickFolderSynchro](https://github.com/chemacarceller/Bash-QuickFolderSynchro)
