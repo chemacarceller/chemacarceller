@@ -25,7 +25,9 @@
 *   **⚙️ GODOT-GENERAL-PURPOSE-UTILS**
     *   [Basic Loading Screen Utility](https://github.com/chemacarceller/GODOT-Basic-Loading-Screen-Utility)
     *   [Basic Level Manager Utility](https://github.com/chemacarceller/GODOT-Basic-Level-Manager-Utility)
-    *   [C++ GDExtension Advanced Logger Class](https://github.com/chemacarceller/Godot-Advanced-Logger-Class)<br /><br />
+    *   [WorldEnvironment Utility Script](https://github.com/chemacarceller/GODOT-Basic-Level-Manager-Utility)
+    *   [DirectionalLight3D Utility Script](https://github.com/chemacarceller/Godot-WorldEnvironment-utility-script))
+    *   [C++ GDExtension Advanced Logger Class](https://github.com/chemacarceller/Godot-DirectionalLight3D-utility-script))<br /><br />
 *   **💃 GODOT-THIRD-PERSON-CHARACTERS**
     *   [Third Person Character Mixamo Manequin Woman](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Woman)
     *   [Third Person Character Mixamo Manequin Man](https://github.com/chemacarceller/GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man)<br /><br />
