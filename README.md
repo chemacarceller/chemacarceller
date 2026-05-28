@@ -103,6 +103,7 @@
 
 <b>🛠️ BASH UTILITIES</b>
 *   [Bash QuickFolderSynchro](https://github.com/chemacarceller/Bash-QuickFolderSynchro)
+*   [Bash NVidia Detector](https://github.com/chemacarceller/Bash-NVidia-Detector)
 </details>
 
 <br /><br />
