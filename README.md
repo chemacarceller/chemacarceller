@@ -113,5 +113,5 @@
 </p>
 
 *   [Python vs GDScript](#) (not available yet) (spanish only)
-*   [C++ Programming Language](#) (not available yet) (spanish only)
+*   [C++ Programming Language] (incl. Python / GDScript bindings)(#) (not available yet) (spanish only)
 *   [Godot Video Game Development Environment briefly compared with Unreal Engine](#) (not available yet) (spanish only)
