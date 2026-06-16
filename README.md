@@ -115,3 +115,5 @@
 *   [Python vs GDScript](#) (not available yet)
 *   [C++ Programming Language (incl. Python / GDScript bindings)](#) (not available yet)
 *   [Godot Video Game Development Environment briefly compared with Unreal Engine](#) (not available yet)
+*   [Godot GDExtension Own Components Explanation](#) (not available yet)
+
