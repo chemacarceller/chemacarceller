@@ -1,4 +1,4 @@
-# 📚 Code Sandbox ( Components, Helpers, Testing code ) & Developer Notes Hub (Knowledge base)
+# 📚 The Sandbox Repository (+ Dev Notes Hub)
 
 <br />
 <p align="center">
