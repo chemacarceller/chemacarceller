@@ -13,8 +13,8 @@
     *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
         *   [C++ GDExtension Random Movement Component](https://github.com/chemacarceller/GODOT-Random-Movement-Component)
         *   [C++ GDExtension Rotating Movement Component](https://github.com/chemacarceller/GODOT-Rotating-Movement-Component)
-        *   [Following Body Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)
-        *   [Projectile Movement Component](https://github.com/chemacarceller/GODOT-Projectile-Movement-Component)<br /><br />
+        *   [C++ GDExtension Following Body Movement Component](https://github.com/chemacarceller/GODOT-Following-Body-Movement-Component)
+        *   [C++ GDExtension Projectile Movement Component](https://github.com/chemacarceller/GODOT-Projectile-Movement-Component)<br /><br />
     *   *GODOT-ADVANCED-MOVEMENT-COMPONENTS:*
         *   [Character Movement Component](https://github.com/chemacarceller/GODOT-Character-Movement-Component)
         *   [Vehicle Movement Component](https://github.com/chemacarceller/Godot-Vehicle-Movement-Component)<br /><br />
