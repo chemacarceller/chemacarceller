@@ -17,7 +17,7 @@
         *   [C++ GDExtension Projectile Movement Component](https://github.com/chemacarceller/GODOT-Projectile-Movement-Component)<br /><br />
     *   *GODOT-ADVANCED-MOVEMENT-COMPONENTS:*
         *   [C++ GDExtension Character Movement Component](https://github.com/chemacarceller/GODOT-Character-Movement-Component)
-        *   [Vehicle Movement Component](https://github.com/chemacarceller/Godot-Vehicle-Movement-Component)<br /><br />
+        *   [C++ GDExtension Vehicle Movement Component](https://github.com/chemacarceller/Godot-Vehicle-Movement-Component)<br /><br />
 *   **🕹️ GODOT-CONTROLLER-COMPONENTS**
     *   [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
 
