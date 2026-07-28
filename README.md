@@ -20,8 +20,7 @@
         *   [C++ GDExtension Vehicle Movement Component](https://github.com/chemacarceller/Godot-Vehicle-Movement-Component)<br /><br />
 *   **🕹️ GODOT-OWN-NODE3D**
     *   [C++ GDExtension Projectile Continuous Collision Detector Node3D](https://github.com/chemacarceller/GODOT-Character-Movement-Component)
-*   **🕹️ GODOT-CONTROLLER-COMPONENTS**
-    *   [Camera Controller Component](https://github.com/chemacarceller/GODOT-Camera-Controller-Component)
+    *   [Camera Controller Node3D](https://github.com/chemacarceller/GODOT-Camera-Controller-Node3D)
 
 <b>🛠️ GODOT-UTILITIES</b>
 *   **⚙️ GODOT-GENERAL-PURPOSE-UTILS**
