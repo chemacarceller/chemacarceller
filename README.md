@@ -79,7 +79,8 @@
 
 <details>
 <summary><b>⚡ NODE.JS - ELECTRONJS</b></summary>
-
+*   **🚀 GODOT-MOVEMENT-COMPONENTS**<br /><br />
+    *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
 <br /><b>📦 NODEJS MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
 
