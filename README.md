@@ -78,13 +78,15 @@
 ---
 
 <details>
-<summary><b>⚡ NODE.JS </b></summary>
+<summary><b>⚡ NODE.JS (EXPRESS.JS & ELECTRON.JS) - NEXT.JS (REACT)</b></summary>
   
-<br /><b>EXPRESS ( EJS ) PROJECTS</b>
+<br /><b>ELECTRON.JS PROJECTS</b>
+  
+<br /><b>EXPRESS PROJECTS</b>
 
 <br /><b>NEXT.JS PROJECTS</b>
       
-<br /><b>MODULES</b>
+<br /><b>NODE.JS MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
 
 <b>CODE TESTING</b>
