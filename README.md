@@ -78,15 +78,16 @@
 ---
 
 <details>
-<summary><b>⚡ NODE.JS - ELECTRONJS</b></summary>
-*   **🚀 GODOT-MOVEMENT-COMPONENTS**<br /><br />
-    *   *GODOT-BASIC-MOVEMENT-COMPONENTS:*
-<br /><b>📦 NODEJS MODULES</b>
+<summary><b>⚡ NODE.JS </b></summary>
+  
+<br /><b>EXPRESS ( EJS ) PROJECTS</b>
+
+<br /><b>NEXT.JS PROJECTS</b>
+      
+<br /><b>MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
 
-<!-- <b>🛠️ NODEJS UTILITIES</b> -->
-
-<b>🧪 NODEJS CODE TESTING</b>
+<b>CODE TESTING</b>
 *   [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)
 
 <!-- <b>🖼️ ELECTRONJS ACTIVITIES</b> -->
