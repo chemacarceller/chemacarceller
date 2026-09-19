@@ -82,7 +82,7 @@
   
 <br /><b>ELECTRON.JS PROJECTS</b>
   
-<br /><b>EXPRESS PROJECTS</b>
+<br /><b>EXPRESS.JS PROJECTS</b>
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
   
 <br /><b>NEXT.JS PROJECTS</b>
