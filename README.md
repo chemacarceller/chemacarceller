@@ -89,12 +89,8 @@
 <br /><b>NODE.JS MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
 
-<b>CODE TESTING</b>
+<b>NODE.JS CODE TESTING</b>
 *   [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)
-
-<!-- <b>🖼️ ELECTRONJS ACTIVITIES</b> -->
-
-<!-- <b>🛠️ ELECTRONJS UTILITIES</b>  -->
 </details>
 
 ---
