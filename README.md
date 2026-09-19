@@ -78,7 +78,7 @@
 ---
 
 <details>
-<summary><b>⚡ NODE.JS (EXPRESS.JS & ELECTRON.JS) - NEXT.JS (REACT)</b></summary>
+<summary><b>⚡ NODE.JS => EXPRESS.JS (EJS) WEB APP - ELECTRON.JS DESKTOP APP - NEXT.JS (REACT) WEB APP</b></summary>
   
 <br /><b>ELECTRON.JS PROJECTS</b>
   
