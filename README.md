@@ -86,7 +86,7 @@
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
   
 <br /><b>NEXT.JS PROJECTS</b>
-*   [NextJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NextJS-Express-Advanced-MVC-Testing-Project)
+*   [NextJS Advanced MVC Testing Project](https://github.com/chemacarceller/NextJS-Advanced-MVC-Testing-Project)
       
 <br /><b>NODE.JS MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
