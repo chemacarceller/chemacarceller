@@ -60,7 +60,7 @@
 <details>
 <summary><b>🐍 PYTHON</b></summary>
 
-<br />
+<br/>
 
 <!-- <b>📦 PYTHON MODULES</b>  -->
 <!--  * [Python mongoTool](https://github.com/chemacarceller/Python-mongoTool)<br/>    -->
@@ -86,6 +86,7 @@
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
   
 <br /><b>NEXT.JS PROJECTS</b>
+*   [NextJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NextJS-Express-Advanced-MVC-Testing-Project)
       
 <br /><b>NODE.JS MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
