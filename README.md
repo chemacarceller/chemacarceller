@@ -84,6 +84,7 @@
   
 <br /><b>EXPRESS.JS PROJECTS</b>
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
+*   [NodeJS Express Intelligence Agent Testing Project](https://github.com/chemacarceller/NextJS-Express-Intelligence-Agent-Testing-Project)
   
 <br /><b>NEXT.JS PROJECTS</b>
 *   [NextJS Advanced MVC Testing Project](https://github.com/chemacarceller/NextJS-Advanced-MVC-Testing-Project)
