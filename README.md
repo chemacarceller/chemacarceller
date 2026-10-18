@@ -96,7 +96,7 @@
 <br /><b>JAVASCRIPT CLIENT CODE TESTING</b>
 
 <br /><b>JAVASCRIPT NODE.JS MODULES</b>
-*   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
+*   [NodeJS MogoDB Utility Class - mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
 
 <b>JAVASCRIPT NODE.JS CODE TESTING</b>
 *   [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)
