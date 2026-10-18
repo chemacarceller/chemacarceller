@@ -89,7 +89,7 @@
 <br /><b>NEXT.JS PROJECTS</b>
 *   [NextJS Advanced MVC Testing Project](https://github.com/chemacarceller/NextJS-Advanced-MVC-Testing-Project)
 
-<br /><b>JAVASCRIPT CLINET MODULES</b>
+<br /><b>JAVASCRIPT CLIENT MODULES</b>
 
 <br /><b>JAVASCRIPT CLIENT CODE TESTING</b>
 
