@@ -78,7 +78,7 @@
 ---
 
 <details>
-<summary><b>⚡ NODE.JS : EXPRESS.JS (EJS) WEB APP - ELECTRON.JS DESKTOP APP - NEXT.JS (REACT) WEB APP</b></summary>
+<summary><b>⚡ NODE.JS-EXPRESS.JS (EJS) WEB APP + ELECTRON.JS DESKTOP APP + NEXT.JS (REACT) WEB APP [ JAVASCRIPT - TYPESCRIPT ]</b></summary>
   
 <br /><b>ELECTRON.JS PROJECTS</b>
   
@@ -88,11 +88,15 @@
   
 <br /><b>NEXT.JS PROJECTS</b>
 *   [NextJS Advanced MVC Testing Project](https://github.com/chemacarceller/NextJS-Advanced-MVC-Testing-Project)
-      
-<br /><b>NODE.JS MODULES</b>
+
+<br /><b>JAVASCRIPT CLINET MODULES</b>
+
+<br /><b>JAVASCRIPT CLIENT CODE TESTING</b>
+
+<br /><b>JAVASCRIPT NODE.JS MODULES</b>
 *   [NodeJS mongoTool](https://github.com/chemacarceller/NodeJS-mongoTool)
 
-<b>NODE.JS CODE TESTING</b>
+<b>JAVASCRIPT NODE.JS CODE TESTING</b>
 *   [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)
 </details>
 
