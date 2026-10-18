@@ -90,6 +90,8 @@
 *   [NextJS Advanced MVC Testing Project](https://github.com/chemacarceller/NextJS-Advanced-MVC-Testing-Project)
 
 <br /><b>JAVASCRIPT CLIENT MODULES</b>
+*   [Javascript SpeechAPI Utility Class]((https://github.com/chemacarceller/Javascript-SpeechAPI-Utility-Class-ES-Module))
+
 
 <br /><b>JAVASCRIPT CLIENT CODE TESTING</b>
 
