@@ -83,7 +83,7 @@
 <br /><b>ELECTRON.JS PROJECTS</b>
 
 <br /><b>AI WEB APPLICATIONS</b>
-*   [Speech-AI Voice Chat Application]() :x: | :white_check_mark: |
+*   :x:    ~~Speech-AI Voice Chat Application~~   (not available)
 
 <br /><b>EXPRESS.JS PROJECTS</b>
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
