@@ -83,9 +83,9 @@
 <br /><b>ELECTRON.JS PROJECTS</b>
 
 <br /><b>AI WEB APPLICATIONS</b>
-*   :x:    ~~Speech-AI Voice Chat Application~~ (not yet available)
-*   :x:    ~~Translator-AI Voice Translator Application~~ (not yet available)
-*   :x:    ~~Character-Animation-AI Character Animation Application~~ (not yet available)
+*   :x:    ~~[Speech-AI Voice Chat Application](#)~~ (not yet available)
+*   :x:    ~~[Translator-AI Voice Translator Application](#)~~ (not yet available)
+*   :x:    ~~[Character-Animation-AI Character Animation Application](#)~~ (not yet available)
 
 <br /><b>EXPRESS.JS PROJECTS</b>
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
@@ -129,8 +129,8 @@
   <b>📖 ****************** &nbsp;&nbsp; Developer Notes Hub (Knowledge base) &nbsp;&nbsp; ****************** 📖</b>
 </p>
 
-*   [Python vs GDScript](#) (not available yet)
-*   [C++ Programming Language (incl. Python / GDScript bindings)](#) (not available yet)
-*   [Godot Video Game Development Environment briefly compared with Unreal Engine](#) (not available yet)
-*   [Godot GDExtension Own Components Explanation](#) (not available yet)
+*   :x:    ~~[Python vs GDScript](#)~~ (not available yet)
+*   :x:    ~~[C++ Programming Language (incl. Python / GDScript bindings)](#)~~ (not available yet)
+*   :x:    ~~[Godot Video Game Development Environment briefly compared with Unreal Engine](#)~~ (not available yet)
+*   :x:    ~~[Godot GDExtension Own Components Explanation](#)~~ (not available yet)
 
