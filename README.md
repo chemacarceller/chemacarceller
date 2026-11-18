@@ -81,7 +81,10 @@
 <summary><b>⚡ NODE.JS-EXPRESS.JS (EJS) WEB APP + ELECTRON.JS DESKTOP APP + NEXT.JS (REACT) WEB APP [ JAVASCRIPT - TYPESCRIPT ]</b></summary>
   
 <br /><b>ELECTRON.JS PROJECTS</b>
-  
+
+<br /><b>AI WEB APPLICATIONS</b>
+*   [Speech-AI Voice Chat Application]() :x: | :white_check_mark: |
+
 <br /><b>EXPRESS.JS PROJECTS</b>
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
 *   [NodeJS Express Advanced MVC + ReactJS Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-ReactJS-Testing-Project)
