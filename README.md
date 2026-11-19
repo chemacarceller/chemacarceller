@@ -86,6 +86,7 @@
 *   :x:    ~~[Speech-AI Voice Chat Application](#)~~ (not yet available)
 *   :x:    ~~[Translator-AI Voice Translator Application](#)~~ (not yet available)
 *   :x:    ~~[Character-Animation-AI Character Animation Application](#)~~ (not yet available)
+*   :x:    ~~[Audio Analyzer-AI Transcription Application](#)~~ (not yet available)
 
 <br /><b>EXPRESS.JS PROJECTS</b>
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
