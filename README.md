@@ -82,12 +82,6 @@
   
 <br /><b>ELECTRON.JS PROJECTS</b>
 
-<br /><b>AI WEB APPLICATIONS</b>
-*   :x:    ~~[Speech-AI Voice Chat Application](#)~~ (not yet available)
-*   :x:    ~~[Translator-AI Voice Translator Application](#)~~ (not yet available)
-*   :x:    ~~[Character-Animation-AI Character Animation Application](#)~~ (not yet available)
-*   :x:    ~~[Audio Analyzer-AI Transcription Application](#)~~ (not yet available)
-
 <br /><b>EXPRESS.JS PROJECTS</b>
 *   [NodeJS Express Advanced MVC Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-Testing-Project)
 *   [NodeJS Express Advanced MVC + ReactJS Testing Project](https://github.com/chemacarceller/NodeJS-Express-Advanced-MVC-ReactJS-Testing-Project)
@@ -108,6 +102,14 @@
 
 <b>JAVASCRIPT NODE.JS CODE TESTING</b>
 *   [NodeJS asyncTest](https://github.com/chemacarceller/NodeJS-async-Test)
+
+
+<br /><b>AI WEB APPLICATIONS</b>
+*   :x:    ~~[Speech-AI Voice Chat Application](#)~~ (not yet available)
+*   :x:    ~~[Translator-AI Voice Translator Application](#)~~ (not yet available)
+*   :x:    ~~[Character-Animation-AI Character Animation Application](#)~~ (not yet available)
+*   :x:    ~~[Audio Analyzer-AI Transcription Application](#)~~ (not yet available)
+*   :x:    ~~[My Rubric-AI Generator Application](#)~~ (not yet available)
 </details>
 
 ---
